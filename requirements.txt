@@ -5,6 +5,8 @@ matplotlib==3.6.3
 seaborn==0.12.2
 plotly==5.13.0
 pandas==1.5.3
+pandas-profiling==3.6.6
+missingno
 numpy==1.23.5
 sqlalchemy==1.4.46
 SQLAlchemy-Utils==0.39.0
